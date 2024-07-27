@@ -65,7 +65,7 @@ Make sure to use a high quality shielded USB C cable. (A to C or C to C)
 
 # Video Build Guide
 
-Coming soon...
+https://www.youtube.com/watch?v=P8fA6qLY02c  
 
 
 # Firmware Settings
