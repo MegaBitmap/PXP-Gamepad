@@ -68,27 +68,11 @@ Make sure to use a high quality shielded USB C cable. (A to C or C to C)
 https://www.youtube.com/watch?v=P8fA6qLY02c  
 
 
-# Firmware Settings
+# Firmware and Installation
 
-[Download firmware here](https://github.com/MegaBitmap/GP2040-CE/releases).  
+[Download firmware here](https://github.com/OpenStickCommunity/GP2040-CE/releases).  (GP2040-CE_x.x.x_PXPGamepad.uf2)  
 [Install it using this guide](https://gp2040-ce.info/installation/).  
 
-In the web configurator -> Configuration -> Add-Ons -> Analog
-Use these settings:  
-
-Analog Stick 1 X Pin    = 27  
-Analog Stick 1 Y Pin    = 26  
-Analog Stick 1 Mode     = Left Analog  
-Analog Stick 1 Invert   = X Axis  
-Analog Stick 2 X Pin    = 29  
-Analog Stick 2 Y Pin    = 28  
-Analog Stick 2 Mode     = Right Analog  
-Analog Stick 2 Invert   = X Axis  
-Inner Deadzone Size (%) = 5  
-Outer Deadzone Size (%) = 50  
-Auto Calibration        = Enabled  
-
-Then scroll to bottom -> Save -> Reboot -> Controller  
 
 # Credits
 
